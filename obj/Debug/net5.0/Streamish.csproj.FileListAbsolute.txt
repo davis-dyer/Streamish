@@ -1,0 +1,8 @@
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.csproj.AssemblyReference.cache
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.AssemblyInfoInputs.cache
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.AssemblyInfo.cs
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.csproj.CoreCompileInputs.cache
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.RazorAssemblyInfo.cache
+C:\Users\ddyer1015\workspace\Streamish\obj\Debug\net5.0\Streamish.RazorAssemblyInfo.cs
